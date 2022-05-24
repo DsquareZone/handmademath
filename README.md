@@ -49,6 +49,7 @@ Version         | Changes        |
 **What's the license?**
 
 This library is in the public domain. You can do whatever you want with it.
+This library is updated
 
 **Where can I contact you to ask questions?**
 
